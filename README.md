@@ -2,8 +2,7 @@
 ### Optimizing Inventory & Supply Chain with Dimensional Modeling
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Role](https://img.shields.io/badge/Role-Data%20Engineer%20%26%20Analyst-blue)
-![Tech](https://img.shields.io/badge/Stack-PostgreSQL%20%7C%20Kimball-orange)
+![Tech](https://img.shields.io/badge/Stack-PostgreSQL%20%7C%20Kimball-blue)
 
 ## 📖 Executive Summary
 This project aims to modernize the inventory management system for **Waroeng Steak & Shake (Ciputat Branch)**.
